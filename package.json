@@ -1,0 +1,16 @@
+{
+  "name": "just-some-maps-and-boxes",
+  "version": "1.0.0",
+  "description": "A collection of Mapbox GL JS map demos.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mapbox-gl": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
